@@ -22,10 +22,12 @@
   ##
  
 <div> 
-  <a href="https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/carlos-eduardo-9ba041156/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://facebook.com/cadurodrigues4030/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  
-   <a href="https://api.whatsapp.com/send?phone=55(11) 95794-4402&text=Carlos Eduardo - Contato" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
+    <a href="https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+    <a href="https://www.linkedin.com/in/carlos-eduardo-9ba041156/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href="https://facebook.com/cadurodrigues4030/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  
+     <a href="https://api.whatsapp.com/send?phone=55(11) 95794-4402&text=Carlos Eduardo - Contato" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
 <div/>
+  
+![Snake animation](https://github.com/cadupinello/cadupinello/blob/output/github-contribution-grid-snake.svg)
    
   
