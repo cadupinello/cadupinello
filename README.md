@@ -1,4 +1,4 @@
-# Fala pessoal me chamo Carlos Eduardo 🖐️
+# Carlos Eduardo 🖐️
 
 - Atualmente estou me aprofundando em Front-End
 - Curso faculdade de Análise e Desenvolvimento de Sistemas na Braz Cubas
