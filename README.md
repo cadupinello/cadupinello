@@ -1,10 +1,12 @@
 # Carlos Eduardo 🖐️
 
-- Atualmente estou me aprofundando em Front-End
-- Curso faculdade de Análise e Desenvolvimento de Sistemas na Braz Cubas
+🖥️ Atualmente estou me aprofundando em Front-End <br/>
+📚 Curso faculdade de Análise e Desenvolvimento de Sistemas, estou no último ano. <br/>
+⬇️ Link abaixo para mais informações ⬇️ <br/>
+https://linkr.bio/cadupinello 🔖
 <br/>
 <div align="center">
-  <a href="https://github.com/cadupinello">
+  <img align="center" alt="Cadu-Js" height="250" width="250" src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif">
 </div>
  <br/>
  <div style="display: inline_block"><br>
