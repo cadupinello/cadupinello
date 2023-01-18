@@ -1,7 +1,7 @@
 # Carlos Eduardo 🖐️
 
 🖥️ Atualmente estou me aprofundando em Front-End <br/>
-📚 Graduado em Análise e Desenvolvimento de Sistemas no de 2022. <br/>
+📚 Graduado em Análise e Desenvolvimento de Sistemas - 2022. <br/>
 ⬇️ Link abaixo para mais informações ⬇️ <br/>
 https://linkr.bio/cadupinello 🔖
 <br/>
