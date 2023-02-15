@@ -5,10 +5,6 @@
 ⬇️ Link abaixo para mais informações ⬇️ <br/>
 https://linkr.bio/cadupinello 🔖
 <br/>
-<div align="center">
-  <img align="center" alt="Cadu-Js" height="250" width="250" src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif">
-</div>
- <br/>
  <div style="display: inline_block"><br>
   <img align="center" alt="Cadu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Cadu-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
