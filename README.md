@@ -1,9 +1,5 @@
 # Olá! Eu sou o Carlos Eduardo 👋
 
-Sou um Desenvolvedor Web com foco em front-end, buscando me tornar um desenvolvedor full-stack. 
-
-🎓 Formação: Graduado em Análise e Desenvolvimento de Sistemas - 2022.
-
 🚀 Habilidades técnicas:
 - JavaScript
 - HTML5
@@ -12,8 +8,6 @@ Sou um Desenvolvedor Web com foco em front-end, buscando me tornar um desenvolve
 - React.js
 - Next.js
 - Angular
-
-🔗 Para mais informações, confira meu [perfil](https://linkr.bio/cadupinello).
 
 ##
 
